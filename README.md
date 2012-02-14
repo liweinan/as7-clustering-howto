@@ -217,10 +217,10 @@ Now everything is set for the two hosts to run in domain mode. Let's start them 
 
 	[Host Controller] 21:30:52,042 INFO  [org.jboss.as.domain] (management-handler-threads - 1) JBAS010918: Registered remote slave host slave
 
+That means all the configurations are correct and two hosts are run in domain mode now as expected.  Hurrah!
+
+## Cluster Configuration
 
 
+## Deployment & Testing
 
-
-![alt text][id]
-
-[id]: /path/to/img.jpg "Title"
